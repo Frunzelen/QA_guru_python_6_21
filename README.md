@@ -15,7 +15,7 @@
 
 ## Решение
 - [Проект в этой ветке](https://github.com/Frunzelen/QA_guru_python_6_21)
-- [Сборка в Jenkins]()
+- [Сборка в Jenkins](https://jenkins.autotests.cloud/job/QA_guru_python_6_21_student_Ter-Akopova/)
 
 ___
 ## Дополнительные материалы
